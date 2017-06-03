@@ -1,1 +1,1 @@
-# Built binaries (internal/external).
+# Built binaries (internal/external)
