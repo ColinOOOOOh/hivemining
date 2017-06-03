@@ -1,2 +1,2 @@
 # hivemining
-Data-driven business planning system
+a data-driven business planning system
