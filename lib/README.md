@@ -1,1 +1,1 @@
-# Built API binaries.
+# Built binaries (internal/external)

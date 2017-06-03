@@ -1,1 +1,1 @@
-# Data miner implementation.
+# Data miners

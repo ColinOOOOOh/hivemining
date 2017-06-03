@@ -1,1 +1,1 @@
-# Distributed tasks scheduler.
+# Distributed tasks scheduler
